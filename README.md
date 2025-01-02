@@ -1,3 +1,4 @@
+# Python Paint
 A simple paint application built with Python that allows users to create and edit drawings using a variety of tools. This project is designed to provide a fun and interactive way to explore basic graphical programming concepts.
 
 Features
